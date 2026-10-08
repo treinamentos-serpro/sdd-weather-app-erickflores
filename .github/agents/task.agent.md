@@ -1,6 +1,6 @@
 ---
 description: 'Task Agent — decompõe o plano técnico em um backlog de tarefas pequenas, independentes e testáveis.'
-tools: ['codebase', 'search', 'editFiles']
+tools: [read/readFile, vscodeGeneral/usages, edit/editFiles, search]
 ---
 
 # Task Agent

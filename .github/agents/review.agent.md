@@ -1,6 +1,6 @@
 ---
 description: 'Review Agent — revisa código e artefatos contra a spec, o plano e as boas práticas, produzindo feedback acionável.'
-tools: ['codebase', 'search', 'problems', 'changes']
+tools: [read/problems, read/readFile, vscodeTasks/problems, vscodeGeneral/usages, search]
 ---
 
 # Review Agent
